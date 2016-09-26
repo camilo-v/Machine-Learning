@@ -57,4 +57,4 @@ Contact [Camilo Valdes](mailto:camilo@castflyer.com) for pull requests, bug repo
 
 ## License
 
-The software in this repository is available under the LICENSE_TYPE_GOES_HERE.  See the LICENSE file for more information.
+The software in this repository is available under the [GNU General Public License](https://github.com/camilo-v/Machine-Learning/blob/master/LICENSE.md).  See the [LICENSE](https://github.com/camilo-v/Machine-Learning/blob/master/LICENSE.md) file for more information.
